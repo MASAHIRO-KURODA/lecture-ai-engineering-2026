@@ -18,3 +18,5 @@
 git add -A
 git commit -m "第1回 演習"
 git push -u origin lec01
+
+以上です。
